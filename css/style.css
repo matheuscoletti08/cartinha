@@ -6,7 +6,9 @@ body {
     padding: 0;
     background-color: #ffe9e9;
 }
-
+span{
+    color: #fea9a9;
+}
 header {
     background-color:#febebe;
     color: #fd7d7d;
